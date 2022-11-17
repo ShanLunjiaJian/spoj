@@ -1,0 +1,5 @@
+[20-Sep-2022 15:13:41 Asia/Chongqing] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function {closure}(), 0 passed in /opt/uoj/web/app/cli.php on line 89 and exactly 1 expected in /opt/uoj/web/app/cli.php:28
+Stack trace:
+#0 /opt/uoj/web/app/cli.php(89): {closure}()
+#1 {main}
+  thrown in /opt/uoj/web/app/cli.php on line 28
